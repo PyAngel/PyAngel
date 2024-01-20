@@ -9,13 +9,13 @@
 </div>
 
 <!--Intro start-->
-- 💻 Currently, I develop data analysis projects using technologies such as**Microsoft Excel, Python,PostgreSQL,Power BI**
+- 💻 Currently, I develop data analysis projects using technologies such as **Microsoft Excel, Python, PostgreSQL, Power BI, and Google Looker Studio**
 
 - 🌱 I’m currently learning **Machine Learning/AI apps and MLops**
   
--  I specialize in projects involving web scraping applications.
+-  I specialize in projects involving web scraping applications, ETL, and deploy Apps.
 
-- ☁️ I'm interested in application automation and web scraping.
+- ☁️ I'm interested in web automation, web scraping, IA.
 
 - 📫 Feel free to reach me out **angel.castellanos2@gmail.com**
 
