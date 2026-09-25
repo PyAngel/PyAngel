@@ -9,7 +9,6 @@
 </div>
 
 <!--Intro start-->
-- Hi 👋, I'm Angel Castellanos - AKA PyAngel
 
 I'm a Quantitative Retail Trader & Market Microstructure Researcher focusing on order flow behavior and data-driven execution models across derivative markets.
 
