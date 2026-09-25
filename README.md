@@ -9,13 +9,27 @@
 </div>
 
 <!--Intro start-->
-- 💻 Currently, I develop data analysis projects using technologies such as **Microsoft Excel, Python, PostgreSQL, Power BI, and Google Looker Studio**
+- Hi 👋, I'm Angel Castellanos - AKA PyAngel
 
-- 🌱 I’m currently learning **Machine Learning/AI apps and MLops**
-  
--  I specialize in projects involving web scraping applications, ETL, and deploy Apps.
+I'm a Quantitative Retail Trader & Market Microstructure Researcher focusing on order flow behavior and data-driven execution models across derivative markets.
 
-- ☁️ I'm interested in web automation, web scraping, IA.
+💻 What I Do & Research:
+
+Market Microstructure: Analyzing order flow dynamics using L1, L2, and MBO (Market By Order) tick data.
+
+Quant Trading Strategy: Modeling execution mechanics, volume profile, and liquidity imbalances in futures and derivatives.
+
+Data Engineering: Building local pipelines for processing high-frequency tick data, storage optimization, and automated monitoring.
+
+🌱 Currently Expanding My Toolkit In:
+
+Data Warehousing & Pipelines: Designing efficient architectures for large-scale financial time-series data.
+
+Inefficient Market Dynamics: Researching mechanical edge, structural market inefficiencies, and alpha extraction.
+
+Portfolio Optimization: Developing quantitative portfolio rebalancing and risk-allocation models.
+
+Advanced Web Scraping & Automation: Extracting alternative data and market metrics from unstructured sources.
 
 - 📫 Feel free to reach me out **angel.castellanos2@gmail.com**
 
