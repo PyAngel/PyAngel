@@ -4,7 +4,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Angel Castellanos - AKA PyAngel </h1></summary>
   <ul align="center">
-    <summary><h2 style="display: inline-block">I'm a Data Analytics, and future AI/ML Engineer </h2></summary>
+    <summary><h2 style="display: inline-block">I'm a Quantitative Retail Trader, and trading content creator </h2></summary>
   </ul>
 </div>
 
